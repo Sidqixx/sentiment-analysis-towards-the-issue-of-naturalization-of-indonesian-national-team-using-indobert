@@ -1,0 +1,9 @@
+=Type=
+1. Opinion
+2. Information
+
+Label
+1. Op
+2. Inf
+
+Dua" nya di drop setelah hasil final
