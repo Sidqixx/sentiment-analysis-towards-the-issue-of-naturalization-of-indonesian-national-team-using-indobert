@@ -1,11 +1,5 @@
 # Public Sentiment Analysis of the Naturalization of Indonesian National Team Players on X Using IndoBERT
 
-> **Project ID:** project-06
-> **Category:** Natural Language Processing
-> **Subcategory:** Sentiment Analysis
-> **Project Type:** Individual Project — Undergraduate Thesis
-> **Status:** Completed
-
 ## 📌 Overview
 
 This project analyzes public sentiment toward the **naturalization of Indonesian National Team players** using Indonesian-language posts collected from **X (formerly Twitter)** between **2021 and 2025**.
